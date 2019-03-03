@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">NestedViewDemo</string>
+    <string-array name="tab_B">
+        <item>Item 2A</item>
+        <item>Item 2B</item>
+        <item>Item 2C</item>
+        <item>Item 2D</item>
+        <item>Item 2E</item>
+        <item>Item 2F</item>
+        <item>Item 2G</item>
+        <item>Item 2H</item>
+        <item>Item 2I</item>
+        <item>Item 2J</item>
+        <item>Item 2K</item>
+        <item>Item 2L</item>
+        <item>Item 2M</item>
+        <item>Item 2N</item>
+        <item>Item 2O</item>
+        <item>Item 2P</item>
+        <item>Item 2Q</item>
+        <item>Item 2R</item>
+        <item>Item 2S</item>
+        <item>Item 2T</item>
+        <item>Item 2A</item>
+        <item>Item 2B</item>
+        <item>Item 2C</item>
+        <item>Item 2D</item>
+        <item>Item 2E</item>
+        <item>Item 2F</item>
+        <item>Item 2G</item>
+        <item>Item 2H</item>
+        <item>Item 2I</item>
+        <item>Item 2J</item>
+        <item>Item 2K</item>
+        <item>Item 2L</item>
+        <item>Item 2M</item>
+        <item>Item 2N</item>
+        <item>Item 2O</item>
+        <item>Item 2P</item>
+        <item>Item 2Q</item>
+        <item>Item 2R</item>
+        <item>Item 2S</item>
+        <item>Item 2T</item>
+    </string-array>
+</resources>
